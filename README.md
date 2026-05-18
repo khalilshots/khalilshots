@@ -1,6 +1,6 @@
 <div align="center">
 
-# Khalil Mouhah — Software Engineer
+# Khalil Mouhah - Software Engineer
 
 **Backend · Full-Stack · QA Automation · Systems & Compilers**
 
@@ -14,7 +14,7 @@ I build and ship real products. My work spans backend APIs, full-stack web apps,
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend** · Python · FastAPI · SQLAlchemy · Java · Spring Boot · PostgreSQL · JWT · Google OAuth  
 **Frontend** · React 19 · Vite · Tailwind CSS · Mapbox GL · shadcn/ui · React Router  
@@ -24,7 +24,7 @@ I build and ship real products. My work spans backend APIs, full-stack web apps,
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [NextGame](https://nextgame.me) — Live Basketball Court Platform
 Full-stack mobile-first web app for finding pickup basketball games. Users check in to courts in real time, submit new courts (admin-moderated), and sign in with Google OAuth or local accounts.
@@ -65,7 +65,7 @@ Designed and implemented a domain-specific programming language for grid-based a
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Designed and implemented a domain-specific programming language for grid-based a
 
 ---
 
-## 📫 Let's connect
+##  Let's connect
 
 Open to backend/full-stack engineering roles, QA/automation positions, internships, and graduate program collaborations.  
 Reach out via [LinkedIn](https://linkedin.com/in/khalilshots) or [email](mailto:khalil@example.com).
