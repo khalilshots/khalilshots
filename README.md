@@ -44,7 +44,7 @@ DOI: [10.1145/3631908.3631910](https://doi.org/10.1145/3631908.3631910)
 
 ---
 
-### [LoopQA Tech Eval](https://github.com/khalilshots/loopQA_techEval) — Playwright Automation Framework
+### [QA Tech Eval](https://github.com/khalilshots/loopQA_techEval) — Playwright Automation Framework
 Production-style QA framework built for a real technical evaluation. Implements Page Object Model, data-driven test generation from JSON (zero code changes to add new scenarios), reusable login helpers, multi-browser support (Chromium, Firefox, WebKit), and full CI/CD via GitHub Actions with HTML report upload on every push.
 
 `Playwright` `JavaScript` `Page Object Model` `Data-Driven Testing` `GitHub Actions`
