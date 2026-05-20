@@ -35,8 +35,8 @@ Full-stack mobile-first web app for finding pickup basketball games. Users check
 
 ---
 
-### [Parallel Strassen's Matrix Multiplication](https://github.com/khalilshots/parallel-strassens-matrix) — ACM Published Research
-**Peer-reviewed & published at ACM ICACS 2023.** Parallelizes Strassen's O(n^2.807) divide-and-conquer matrix multiplication across CPU cores using Python's `ThreadPoolExecutor`. Includes empirical benchmarks (up to 4.4× speedup on n=3000) and a follow-up ML layer (Random Forest, Gradient Boosting, Linear Regression) predicting runtime from matrix size and core count.
+### [Large Matrix Multiplication Algorithms: Analysis and Comparison](https://github.com/khalilshots/parallel-strassens-matrix) — ACM Published Research
+**Peer-reviewed & published at ACM ICACS 2023, Larissa, Greece.** Parallelizes Strassen's O(n^2.807) algorithm across CPU cores using Python's `ThreadPoolExecutor`, achieving up to **4.6× speedup** on real hardware (measured: 1.19s → 0.26s on 1000×1000 matrices). Includes full benchmark data across 4 matrix sizes and 12 core counts, plus a follow-up ML layer (Random Forest, Gradient Boosting, Linear Regression) predicting runtime from matrix size and core count.
 
 DOI: [10.1145/3631908.3631910](https://doi.org/10.1145/3631908.3631910)
 
