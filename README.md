@@ -65,17 +65,6 @@ Designed and implemented a domain-specific programming language for grid-based a
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilshots&show_icons=true&hide_border=true&theme=default&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilshots&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 ##  Let's connect
 
 Open to backend/full-stack engineering roles, QA/automation positions, internships, and graduate program collaborations.  
