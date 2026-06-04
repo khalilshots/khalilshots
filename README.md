@@ -68,4 +68,4 @@ Designed and implemented a domain-specific programming language for grid-based a
 ##  Let's connect
 
 Open to backend/full-stack engineering roles, QA/automation positions, internships, and graduate program collaborations.  
-Reach out via [LinkedIn](https://linkedin.com/in/khalilshots) or [email](mailto:khalil@example.com).
+Reach out via [LinkedIn](https://linkedin.com/in/khalilshots) or [email](mailto:kmouhah1@gmail.com).
